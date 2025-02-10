@@ -17,9 +17,9 @@
 - **Зимняя школа «Программирование для RISC-V»** (2025)  
   Проект: *Запуск и измерение RVV бенчмарков на open-source RISC-V VPU (Ara2, Saturn)*  
   Организатор: YADRO на базе ИТМО
-- **Курсы:**  
-  - Django for Everyone (Dr. Chuck, University of Michigan) *(2024)*  
+- **Курсы:**
   - Programming in Go (Matt Holiday) *(2024)*  
+  - Django for Everyone (Dr. Chuck, University of Michigan) *(2024)*  
   - PHP (Sololearn) *(2021)*  
   - Операционные системы (Computer Science Center) *(2021)*  
   - Введение в программирование на C++ (Яндекс, НИУ ВШЭ) *(2020)*
