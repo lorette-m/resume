@@ -39,8 +39,9 @@
 
 ## Дополнительные сведения
 
-- Участвую в хакатонах экосистемы TON, занимаюсь фрилансом
+- Занимаюсь фрилансом
+- Участвую в хакатонах экосистемы TON
 - **GitHub:** [github.com/lorette-m](https://github.com/lorette-m)  
-- **Пример веб-проекта:** [Biophilia.README](https://biophiliq.ru/)
+- **Пример веб-проекта:** [Biophilia.README](https://biophiliq.ru/)     
   Выполнен в качестве итогового проекта курса "Soft Skills: Арт-инноватика"
 
