@@ -16,7 +16,7 @@
 
 - **Зимняя школа «Программирование для RISC-V»** (2025)  
   Проект: *Запуск и измерение RVV бенчмарков на open-source RISC-V VPU (Ara2, Saturn)*  
-  Организатор: YADRO на базе ИТМО
+  Организатор: YADRO на базе ИТМО     
   Hard Skills: RISC-V, Scala, Chisel, Verilog, CLI, Conda, Chipyard, Saturn
 - **Курсы:**
   - Programming in Go (Matt Holiday) *(2024)*  
