@@ -31,8 +31,10 @@
 
 - **Языки программирования:** Go, C++, Python, Java  
 - **ОС и инструменты:** GNU/Linux (Ubuntu, Arch), CLI, Bash  
-- **Веб-технологии:** Django, PHP, HTML, CSS, WordPress  
-- **Другие технологии:** Docker, Git, GitHub, Notion, Figma, Miro  
+- **Веб-технологии:** Django, PHP, HTML, CSS, WordPress
+- **DevOps:** Docker, Git, GitHub
+- **Data Science & Research Tools:** Jupyter Notebook
+- **Инструменты для совместной работы:**  Notion, Figma, Miro   
 - **Английский язык:** Upper Intermediate (B2)  
 
 ---
