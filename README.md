@@ -37,14 +37,14 @@
 - **Веб-технологии:** Django, PHP, HTML, CSS, WordPress
 - **DevOps:** Docker, Git, GitHub
 - **Data Science & Research Tools:** Jupyter Notebook
-- **Инструменты для совместной работы:**  Notion, Figma, Miro   
+- **Инструменты для совместной работы:**  Notion, Figma   
 - **Английский язык:** Upper Intermediate (B2)  
 
 ---
 
 ## Дополнительные сведения
 
-- Занимаюсь фрилансом
+- Есть опыт разработки веб-приложений на фрилансе (PHP)
 - Участвовал в хакатонах экосистемы TON
 - **GitHub:** [github.com/lorette-m](https://github.com/lorette-m)  
 - **Пример веб-проекта:** [Biophilia.README](https://biophiliq.ru/)     
